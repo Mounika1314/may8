@@ -1,0 +1,6 @@
+n=int(input('enter a number: '))
+for i in range(n>0):
+    if(n%2)==0:  
+        print("yes")
+    else:
+        print("no")
